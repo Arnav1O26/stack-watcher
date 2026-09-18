@@ -1,0 +1,6 @@
+venv/
+SWvenv/
+__pycache__/
+.env
+.git/
+.streamlit/
