@@ -1,0 +1,5 @@
+SWvenv/
+__pycache__/
+*.pkl
+*.env
+.streamlit/
